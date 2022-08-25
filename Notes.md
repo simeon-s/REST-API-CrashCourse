@@ -1,5 +1,7 @@
-1. REST API
-REPRESENTATIONAL STATE TRANSFER
+## REST API
+### REPRESENTATIONAL STATE TRANSFER
+https://youtu.be/qbLc5a9jdXo?t=2008
+1. Basics
     - An inteface which is used for interaction between applications
     - Server client type of communication
     - Uses JSON interface
@@ -23,5 +25,5 @@ REPRESENTATIONAL STATE TRANSFER
 5. CRUD
     - POST is used to create new data POST /drinks
     - PUT is used to replace currently existing data PUT /drinks/<id>
-    
-    
+    - POST may create multiple records of data, PUT will not
+    - PUT is **idempontent**
